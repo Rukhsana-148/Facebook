@@ -1,0 +1,56 @@
+*{
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1368px;
+    background-color: rgb(59, 89, 153);
+    height : 100vh;
+}
+.log{
+    margin-top : 140px;
+    
+}
+input{
+
+    margin-bottom : 5px;
+   padding-top: 20px;
+    padding-bottom: 30px;
+    font-size: 10px;
+}
+
+.login{
+    margin-top : 30px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.btn{
+    width : 100%;
+    background-color: rgb(87, 127, 188);
+    color : white;
+}
+.bottom{
+    margin-top : 100px;
+    text-align: center;
+}
+a{
+    color : white;
+    font-size : 12px;
+}
+a:hover{
+    color : white;
+    text-decoration: none;
+}
+.icon{
+    text-align: center;
+    margin-bottom : 20px;
+}
+i{
+   
+    font-size : 35px;
+    color : white;
+}
+.sign{
+    margin-bottom: 70px;
+}
